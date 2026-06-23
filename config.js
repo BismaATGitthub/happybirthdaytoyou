@@ -60,7 +60,7 @@ const CONFIG = {
     },
     {
       type: "countdown",
-      from: 3,                    // Countdown from this number
+      from: 5,                    // Countdown from this number
       goText: "🎉",              // Text shown after countdown ends
     },
     {
@@ -95,7 +95,7 @@ const CONFIG = {
     },
     {
       type: "balloons",
-      count: 25,
+      count: 32,
     },
     {
       type: "profile",
@@ -104,7 +104,7 @@ const CONFIG = {
     },
     {
       type: "fireworks",
-      count: 24,
+      count: 32,
     },
     {
       type: "confetti",
