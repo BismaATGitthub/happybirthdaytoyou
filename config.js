@@ -113,7 +113,7 @@ const CONFIG = {
     },
     {
       type: "closing",
-      text: "Okay, now come back and tell me if you liked it.",
+      text: "Last wishes in Bahasa, Semoga Brian sehat selalu, dimudahkan segala rezeki dan cita-citanya, dilancarkan karirnya dan tubelnya, diberi lingkungan yang suportif dan menyayangi dirimu, dan segala doa baik lainnya, Amiin",
       replayText: "Or click, if you want to watch it again.",
     },
   ],
