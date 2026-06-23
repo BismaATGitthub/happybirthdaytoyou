@@ -113,7 +113,9 @@ const CONFIG = {
     },
     {
       type: "closing",
-      text: "Last wishes in Bahasa, Semoga Brian sehat selalu, dimudahkan segala rezeki dan cita-citanya, dilancarkan karirnya dan tubelnya, diberi lingkungan yang suportif dan menyayangi dirimu, dan segala doa baik lainnya, Amiin",
+      text: "Last wishes in Bahasa, Semoga Brian sehat selalu, dimudahkan segala rezeki dan cita-citanya, dilancarkan karirnya dan tubelnya, diberi lingkungan yang suportif dan menyayangi dirimu, dan segala doa baik lainnya, Amiin.
+        
+        Semoga di usia yang baru ini semakin sehat, sukses, dan dimudahkan dalam setiap langkah. Seperti batuan sedimen yang menjadi tempat terbentuk dan tersimpannya hidrokarbon, semoga setiap pengalaman dan usaha yang kamu kumpulkan selama ini menjadi fondasi yang menghasilkan banyak hal baik di masa depan. Semoga tahun ini penuh dengan peluang, pencapaian, dan kebahagiaan yang "commercially viable". Have a great year ahead",
       replayText: "Or click, if you want to watch it again.",
     },
   ],
