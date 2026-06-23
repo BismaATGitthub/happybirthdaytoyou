@@ -27,7 +27,7 @@
 
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
-  name: "Brian Tony",
+  name: "Brian Tony Sitorus",
   photo: "./img/brr.png",       // Place your photo in the img/ folder
   music: "./music/hbd.mp3",      // Place your music in the music/ folder
 
@@ -71,7 +71,7 @@ const CONFIG = {
     {
       type: "chatbox",
       message:
-        "Happy birthday to youu Brian!! Wishing you a wonderful year ahead filled with joy, love, and endless happiness!",
+        "Happy birthday to youu Brian Tony Sitorus!! Wishing you a wonderful year ahead filled with joy, love, and endless happiness!",
       buttonText: "Send",
     },
     {
