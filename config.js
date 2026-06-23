@@ -34,7 +34,7 @@ const CONFIG = {
   // ── Theme Colors ──────────────────────────────────────────────
   // A toggle button lets the viewer switch between dark & light mode.
   colors: {
-    primary: "#f472b6",           // Main accent color (rose pink)
+    primary: "#f1c232",           // Main accent color (rose pink)
     accent: "#60a5fa",            // Secondary accent color (sky blue)
     dark: {
       background: "#0f172a",      // Slate 900
@@ -57,6 +57,7 @@ const CONFIG = {
       type: "greeting",
       title: "Hi",
       subtitle: "Its really grateful for me to know you as the kindest person as I know",
+      subsubtitle: "Amazing Brian Tony",
     },
     {
       type: "countdown",
@@ -80,7 +81,7 @@ const CONFIG = {
         "But then I stopped.",
         "I realised, I wanted to do something <strong>special</strong>.",
         "Because,",
-        "You are Special <span>:)</span>",
+        "You are Special and You do the Same to me Yesterday <span>:)</span>",
       ],
       bigLetters: "SO",
     },
