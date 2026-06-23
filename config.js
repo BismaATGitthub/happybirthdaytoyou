@@ -113,7 +113,7 @@ const CONFIG = {
     },
     {
       type: "closing",
-      text: "Last wishes in Bahasa, Semoga Brian sehat selalu, dimudahkan segala rezeki dan cita-citanya, dilancarkan karirnya dan tubelnya, diberi lingkungan yang suportif dan menyayangi dirimu, dan segala doa baik lainnya, Amiin.",
+      text: "Last wishes in Bahasa, Semoga Brian sehat selalu, dimudahkan segala rezeki dan cita-citanya, dilancarkan karir dan tubelnya, diberi lingkungan yang suportif dan menyayangi dirimu, dan segala doa baik lainnya, Amiin. Dikata kaya batu Sedimen yang jadi tempat terbentuk dan tersimpannya si hidrokarbon, semoga setiap usaha yang dikumpulkan jadi fondasi yang baik dan harapan di masa depan. Nice to know you man, happy birthday, you are not older, you are wiser",
       replayText: "Or click, if you want to watch it again.",
     },
   ],
